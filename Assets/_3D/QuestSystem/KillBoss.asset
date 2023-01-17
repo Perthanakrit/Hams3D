@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06ef70079042a8b4088cf9c04246eec9, type: 3}
+  m_Name: KillBoss
+  m_EditorClassIdentifier: 
+  title: Boss
+  description: You have to defeat 1 boss
+  NumofKillingToComplete: 1
+  isCompleted: 0
+  LuckyKey: 0
